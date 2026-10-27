@@ -5,3 +5,4 @@ main{max-width:680px;margin:0 auto;padding:24px 18px}
 .card:hover{border-color:#ffb703}.card b{display:block;font-size:1.1rem}.card span{color:#666;font-size:.95rem}
 ol li{margin:8px 0}.note{background:#fff3cd;border-radius:10px;padding:12px 14px;font-size:.95rem}
 a{color:#b45309}footer{text-align:center;color:#777;font-size:.85rem;padding:28px 18px}
+@media (prefers-color-scheme:dark){body{background:#1c1a16;color:#f2ede2}header{background:#8a6100;color:#fff}.card{background:#26231d;border-color:#3d382c}.card span{color:#b8b0a0}.note{background:#3a3220;color:#f2ede2}a{color:#ffc857}footer{color:#a39b8a}}
